@@ -105,10 +105,7 @@ p {
 }
 
 footer {
-  position: absolute;
-  bottom: 4rem;
-  left: 0;
-  right: 0;
+  margin-top: 6rem;
 }
 
 .btn {
