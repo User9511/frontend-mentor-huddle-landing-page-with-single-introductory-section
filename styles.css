@@ -46,9 +46,6 @@
   --step-10: clamp(1.91rem, calc(-5.21rem + 30.39vw), 22.14rem);
 }
 
-a {
-}
-
 i {
   color: #fff;
   border: 1px solid #fff;
@@ -98,11 +95,14 @@ p {
 
 .illustration {
   max-width: 100%;
-  margin-bottom: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 footer {
-  margin-top: 6rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 4rem;
 }
 
 .btn {
@@ -110,7 +110,7 @@ footer {
   width: 14rem;
   padding: 0.75rem;
   border-radius: 20px;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   box-shadow: 0px 5px 5px 1px rgba(0, 0, 0, 0.403);
 }
 
