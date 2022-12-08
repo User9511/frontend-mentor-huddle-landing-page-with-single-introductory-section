@@ -1,7 +1,7 @@
 ### Links
 
-- Solution URL: [https://smgy94.github.io/frontend-mentor-huddle-landing-page-with-single-introductory-section/#](https://your-solution-url.com)
-- Live Site URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-hacdBIsDj6](https://your-live-site-url.com)
+- Solution URL: [https://smgy94.github.io/frontend-mentor-huddle-landing-page-with-single-introductory-section/#](https://smgy94.github.io/frontend-mentor-huddle-landing-page-with-single-introductory-section/#)
+- Live Site URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-hacdBIsDj6](https://www.frontendmentor.io/solutions/huddle-landing-page-hacdBIsDj6)
 
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
